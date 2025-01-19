@@ -28,7 +28,7 @@ An intuitive and modern **E-Commerce Website** built using React, Node.js, Expre
 
 ## 📹 Demo Video
 
-👉 Watch the full demo here: [Demo Video Link](#) <!-- Replace '#' with the actual demo video link -->
+👉 Watch the full demo here: [Demo Video Link](https://drive.google.com/file/d/1m7funKWBuuhw2alJppIsEINfD2hGYugJ/view?usp=sharing) <!-- Replace '#' with the actual demo video link -->
 
 ---
 
